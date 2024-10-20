@@ -1,1 +1,1 @@
-This is an application of a genetic algorithm metaheuristic, enhanced through collective intelligence by means of the wisdom of crowds, to tackle the NP-complete matrix domination problem (TMDP) 
+This is an application of a genetic algorithm metaheuristic to tackle the NP-complete matrix domination problem (TMDP). It is enhanced with collective intelligence by means of the wisdom of crowds and features a visual output of the generated matrices.
